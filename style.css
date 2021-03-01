@@ -6,3 +6,14 @@ body {
   width: 300px;
   height: auto;
 }
+
+.btnResetSend {
+  padding: 5px;
+  margin-top: 5px;
+  text-align: center;
+  width: 40%;
+}
+
+.contact-form {
+  margin: 32px;
+}
