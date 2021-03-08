@@ -17,3 +17,7 @@ body {
 .contact-form {
   margin: 32px;
 }
+
+.center {
+  text-align: center;
+}
