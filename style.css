@@ -21,3 +21,7 @@ body {
 .center {
   text-align: center;
 }
+
+.navbar a {
+  margin-right: 20px;
+}
