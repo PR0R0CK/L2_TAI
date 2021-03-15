@@ -25,3 +25,10 @@ body {
 .navbar a {
   margin-right: 20px;
 }
+
+.scroll {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  /* display: none; */
+}
